@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    ...
+    </head>
+    <body>
+    ...
+    </body>
+</html>
+
+<!-- <img> adlah tag untuk memasukkan element gambar -->
+<img src="https://go.aws/2QJGvNB" width="80%" />
+
+<!-- commentary in HTML-->
