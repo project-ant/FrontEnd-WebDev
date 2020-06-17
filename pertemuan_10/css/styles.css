@@ -2,3 +2,67 @@
     background-color: #d3d3d3;
   }
   
+  /* Pada File CSS */
+div * {
+  background-color: lightgrey;
+}
+
+p {
+    font-size: 20px;
+    background-color: darkgrey;
+    color: whitesmoke;
+  }
+  
+.error{
+    background-color: white;
+  }
+
+p.success{
+      color: mintcream;
+  }
+
+p.success.feedback {
+      color: navy;
+      border-width: 2px;
+      border-style: outset;
+      border-color: orange;
+  }
+
+#container {
+      color: aquamarine;
+      border: 3px none gold;
+  }
+
+.highlight {
+    background-color: black;
+    color: white;
+  }
+  
+#firstParagraph {
+    border: solid yellow;
+  }
+
+  p .error{
+      background-color: yellow;
+  }
+
+#secondParagraph {
+    border: solid pink;
+  }
+
+a[href] {
+    background-color: green;
+  }
+  
+  a[download='search-engine.txt'] {
+    background-color: pink;
+  }
+  #container p {
+    background-color: darkblue;
+    color:white;
+  }
+  
+  h1,
+h2 {
+  color: red;
+}
