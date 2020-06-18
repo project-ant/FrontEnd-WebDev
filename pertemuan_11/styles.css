@@ -1,0 +1,15 @@
+.image_1 {
+    background-color: skyblue;
+    border: 10px #000000 double;
+    margin: 0px;
+}
+.image_2 {
+    background-color: skyblue;
+    border: 10px #000000 double;
+    margin: -5px 139px
+}
+.image_3 {
+    background-color: skyblue;
+    border: 10px #000000 double;
+    margin: 0px 278px;
+}
