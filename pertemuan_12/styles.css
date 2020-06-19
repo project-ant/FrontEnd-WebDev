@@ -1,0 +1,24 @@
+/*
+    inline elements
+    don't take up any more room than their content needs
+    span img strong em a and more
+    ------------------------------------------------------
+
+    block-level elements
+    take up the whole width of page regardless of contents
+
+    p, div, h1, h2, h3, ul, li, and more
+    -------------------------------------------------------
+
+    
+*/
+
+span{
+    display: block;
+}
+
+div {
+    display: inline;
+    margin: 20px;
+    border: 20px;
+}
