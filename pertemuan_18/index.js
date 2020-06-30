@@ -12,8 +12,10 @@ let John_mass = 65;
 const BMI_Mark = Mark_mass / (Mark_height**2);
 const BMI_John = John_mass / (John_height**2);
 
-let hasil = console.log(BMI_Mark > BMI_John);
+console.log('Apakah BMI Mark lebih besar daripada BMI John?')
 
-let print = hasil === BMI_Mark ? "Mark memiliki BMI lebih besar daripada John" : "John memiliki BMI lebih besar daripada Mark";
+let hasil = console.log (BMI_Mark > BMI_John);
+
+let print = hasil === hasil ? "Mark memiliki BMI lebih besar daripada John" : "John memiliki BMI lebih besar daripada Mark";
 
 console.log(print)
